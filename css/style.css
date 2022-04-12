@@ -4,17 +4,23 @@
 }
 
 h1{
-    color: red;
+    color: Red;
     font-size: 35px;
     text-align: center;
+    padding: none;
+    font-family: Tahoma;
 }
 h2{
     color: aqua;
     font-size: 20px;
     text-align: center;
+    padding: 2px;
 }
 p{
     color: darkgreen;
     font-size: 17px;
     text-align: center;
+}
+table{
+    padding: none;
 }
