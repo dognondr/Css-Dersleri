@@ -1,0 +1,20 @@
+.Baslık{
+    border: 7px outset gold;
+    background-color: cyan;
+}
+
+h1{
+    color: red;
+    font-size: 35px;
+    text-align: center;
+}
+h2{
+    color: aqua;
+    font-size: 20px;
+    text-align: center;
+}
+p{
+    color: darkgreen;
+    font-size: 17px;
+    text-align: center;
+}
